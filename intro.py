@@ -69,6 +69,3 @@ def plot_with_text():
     plt.axis([40, 160, 0, 0.03])
     plt.grid(True)
     plt.show()
-
-if __name__ == "__main__":
-    plot_with_text()
